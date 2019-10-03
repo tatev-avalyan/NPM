@@ -8,8 +8,11 @@
   },
   "dependencies": {
     "@koreez/mvcx": "1.0.1",
+    "express": "^4.8.0",
     "lodash": "4.17.15",
-    "lodash.difference": "^4.5.0"
+    "lodash.difference": "^4.5.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
